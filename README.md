@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheShark9990
 - 👀 I’m interested in programming I guess
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and HTML
 - 📫 How to reach me: lalaestebanco@gmail.com
 
 <!---
